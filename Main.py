@@ -16,7 +16,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton 
 from aiogram.filters import Command
 
-TOKEN = "BOT_TOKEN_HERE"
+TOKEN = "8446018224:AAHlRvnuT-WxvQTHqzJIWcM1686PfqIWtQI"
 
 bot = Bot(TOKEN) dp = Dispatcher() docker_client = docker.from_env()
 
