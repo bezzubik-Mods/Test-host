@@ -16,7 +16,7 @@ dp = Dispatcher()
 
 USERBOTS = { "hikka": { "name": "✨ Hikka Userbot", "image": "ghcr.io/hikariatama/hikka:latest", "login": "https://t.me/hikka_login_bot" }, "ftg": { "name": "⚡ FTG Userbot", "image": "ghcr.io/ftg-userbot/ftg:latest", "login": "https://t.me/ftg_session_bot" } }
 
-Хранилище серверов (лучше заменить на БД)
+
 
 SERVERS = {} 
 USER_STATE = {}
